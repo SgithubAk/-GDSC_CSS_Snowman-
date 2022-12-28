@@ -1,0 +1,40 @@
+<b><r><i>
+<style>
+ body {
+   background: #AC474B;
+ }
+
+*{
+   position: fixed
+ }
+
+b{
+  background: #0E1F2B;
+  width: 10;
+  height: 10;
+  border-radius: 1in;
+  top: 113;
+  left: 185;
+  box-shadow: 20px 0 #0E1F2B,
+              10px 7px 0 25px #fff,
+              10px 77px 0 45px #fff
+ }
+
+r{
+  background: #FFA63F;
+  width: 10;
+  height: 60;
+  border-radius: 1in;
+  top: 143;
+  left: 170;
+  box-shadow: 0 0 0 4px #AC474B
+ }
+
+i{
+  background: Linear-gradient(#0000, 40px,#0E1F2B 0),
+              Linear-gradient(#0E1F2B 15px,#fff 15px 25px,#0E1F2B 0) no-repeat 50% 0/40px 45px;
+  width: 60;
+  height: 45;
+  top: 55;
+  left: 170;
+}
